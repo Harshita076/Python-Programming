@@ -9,7 +9,7 @@ This repository contains my Python learning journey, covering core programming c
 - Functions  
 - Basic Problem Solving  
 - Python Syntax & Logic Building  
-
+- Python Libraries
 ## 🛠️ Tools & Technologies
 - Python  
 - Jupyter Notebook  
